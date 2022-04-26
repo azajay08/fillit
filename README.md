@@ -1,8 +1,12 @@
-## fillit - 42 (Hive Heslinki) 🧩
+# fillit - 42 (Hive Heslinki) 🧩
 
 
-# Evaluation
-The `1basic_eval.sh` test runs some of the same files as the evaluation tests.  
+## Evaluation
+`....
+....
+..##
+..##`
+
 The test with just 1 piece must be solved in under 1 second. The test with 7 pieces has a bonus grading system as so.  
 30 seconds+ -> 0 pts 🐢  
 20-30 seconds -> 1 pt  
