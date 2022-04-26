@@ -1,4 +1,6 @@
 # fillit - 42 (Hive Heslinki) 🧩
+Fillit is a paired group project. The goal is to take a file as an argument which contains valid Tetris pieces up to the count  
+of 26, and fits them into the smallest square possible. A valid piece is considered as such:  
 
 
 ## Evaluation
@@ -14,3 +16,6 @@
 5-10 seconds -> 3pt  
 1-5 seconds -> 4pt  
 < 1 second -> 5 pt 🚀
+
+
+`cd`
