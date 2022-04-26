@@ -1,7 +1,6 @@
+# fillit - 42 (Hive Heslinki) 🧩  
 ![tet](https://user-images.githubusercontent.com/86073849/165313509-806217a3-5518-403e-b5db-1257f00f2363.jpeg)  
   
-
-# fillit - 42 (Hive Heslinki) 🧩
 Fillit is a paired group project. The goal is to take a file as an argument which contains valid Tetris pieces up to the count of 26, and fits them into the smallest square possible. Valid pieces are considered as such:  
 
 <img width="314" alt="Screenshot 2022-04-26 at 16 09 56" src="https://user-images.githubusercontent.com/86073849/165307710-7249ec80-f406-4d1a-88dd-83173fd5f167.png">  
