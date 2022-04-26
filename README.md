@@ -11,10 +11,14 @@ A valid piece can only be made up of `#` and `.`. Anything else will be consider
 <img width="127" alt="Screenshot 2022-04-26 at 16 46 29" src="https://user-images.githubusercontent.com/86073849/165314438-b6759bf8-37c5-4e29-8df4-bbabe8ec6e4a.png">
 
 ## Evaluation
+In this evaluation, there are a few test files provided. These will test a single valid piece(shown below), a test file containing 7 random simple valid pieces, and some invalid pieces to test.  
 
-<img width="162" alt="Screenshot 2022-04-26 at 16 35 48" src="https://user-images.githubusercontent.com/86073849/165312318-0925c067-e196-47d6-a365-f14a821f18e2.png">  
+This test with just 1 piece must be solved in under 1 second...  
+<img width="127" alt="Screenshot 2022-04-26 at 16 50 10" src="https://user-images.githubusercontent.com/86073849/165315128-037754f3-7dff-4596-834f-de1b364e5a19.png">  
 
-^^This test with just 1 piece must be solved in under 1 second. There is a test file with 7 random pieces, which should be pretty simple to solve, has a bonus grading system as so.  
+There is a test file with 7 random pieces, when solved looks like this...  
+<img width="127" alt="Screenshot 2022-04-26 at 16 46 29" src="https://user-images.githubusercontent.com/86073849/165314438-b6759bf8-37c5-4e29-8df4-bbabe8ec6e4a.png">  
+This has a bonus grading system, these are the time limits for solving:  
 30 seconds+ -> 0 pts 🐢  
 20-30 seconds -> 1 pt  
 10-20 seconds -> 2 pt  
