@@ -2,12 +2,12 @@
 
 
 ## Evaluation
-. . . .  
-. . . .  
-. . ##  
-. . ##  
+....  
+....  
+..##  
+..##  
 
-The test with just 1 piece must be solved in under 1 second. The test with 7 pieces has a bonus grading system as so.  
+^^This test with just 1 piece must be solved in under 1 second. The test with 7 random pieces has a bonus grading system as so.  
 30 seconds+ -> 0 pts 🐢  
 20-30 seconds -> 1 pt  
 10-20 seconds -> 2 pt  
