@@ -1,7 +1,27 @@
-# fillit - 42 (Hive Heslinki) 🧩  
+# fillit - 42 (Hive Helsinki) 🧩  
 ![tet](https://user-images.githubusercontent.com/86073849/165313509-806217a3-5518-403e-b5db-1257f00f2363.jpeg)  
   
-Fillit is a paired group project at Hive Helsinki(42). The goal is to take a file as an argument which contains valid Tetris pieces up to the count of 26, and fits them into the smallest square possible. It is basically a Tetris solver. Valid pieces are considered as such:  
+Fillit is a paired group project at Hive Helsinki(42). As with all Hive projects, they come with restraints and limitations. We have to abide by the rules of `Norminette`. Here are some of the rules we must follow:
+
+```
+* The mandatory part must be written in C
+* 25 lines maximum per function
+* 5 functions maximum per file
+* 80 columns wide maximum
+* 5 variables per function maximum
+* For loops are forbidden
+* Declaration and an initialisation cannot be on the same line
+* A function can take 4 named parameters maximum
+* Functions allowed:
+  * write
+  * malloc
+  * free
+  * read
+  * open
+  * close
+  * exit
+```
+The goal is to take a file as an argument which contains valid Tetris pieces up to the count of 26, and fit them into the smallest square possible. It is basically a Tetris solver. Valid pieces are considered as such:  
 
 <img width="314" alt="Screenshot 2022-04-26 at 16 09 56" src="https://user-images.githubusercontent.com/86073849/165307710-7249ec80-f406-4d1a-88dd-83173fd5f167.png">  
 
