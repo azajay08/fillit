@@ -7,7 +7,7 @@
 Fillit is a paired group project at Hive Helsinki(42). As with all Hive projects, they come with restraints and limitations. We have to abide by the rules of `Norminette`. Here are some of the rules we must follow:
 
 ```
-* The mandatory part must be written in C
+* Must be written in C
 * 25 lines maximum per function
 * 5 functions maximum per file
 * 80 columns wide maximum
