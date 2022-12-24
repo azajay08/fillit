@@ -1,5 +1,8 @@
 # fillit - 42 (Hive Helsinki) 🧩  
-![tet](https://user-images.githubusercontent.com/86073849/165313509-806217a3-5518-403e-b5db-1257f00f2363.jpeg)  
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/86073849/209414432-65b5c7cd-72ea-4e09-a8a8-88c917154b0b.png" alt="cube" width="400"/>
+</p>
   
 Fillit is a paired group project at Hive Helsinki(42). As with all Hive projects, they come with restraints and limitations. We have to abide by the rules of `Norminette`. Here are some of the rules we must follow:
 
