@@ -42,7 +42,8 @@ This test with just 1 piece must be solved in under 1 second...
 
 There is a test file with 7 random pieces, when solved looks like this...  
 <img width="127" alt="Screenshot 2022-04-26 at 16 46 29" src="https://user-images.githubusercontent.com/86073849/165314438-b6759bf8-37c5-4e29-8df4-bbabe8ec6e4a.png">  
-This has a bonus grading system, these are the time limits for solving:  
+There is a bonus grading system for this project. You will be awarded bonus points depending on the solving time:  
+
 30 seconds+ -> 0 pts 🐢  
 20-30 seconds -> 1 pt  
 10-20 seconds -> 2 pt  
