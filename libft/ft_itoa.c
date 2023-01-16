@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_itoa.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mtissari <mtissari@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ajones <ajones@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/15 16:40:46 by mtissari          #+#    #+#             */
-/*   Updated: 2021/12/08 18:05:58 by mtissari         ###   ########.fr       */
+/*   Updated: 2023/01/16 18:44:10 by ajones           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,9 +60,7 @@ static void	ft_intcpy(char *string, int nb)
 char	*ft_itoa(int n)
 {
 	char	*str;
-	int		x;
 
-	x = 0;
 	str = (char *)malloc(sizeof(char) * ft_intlen(n) + 1);
 	if (str == NULL)
 		return (NULL);
